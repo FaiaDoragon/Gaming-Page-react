@@ -3,6 +3,7 @@
 export const Header = () => {
   return (
     <>
+      <div id="header">
       <div id="logo-redes">
         <div className="logo-y-redes">
           <a href="C:/Users/Usuario/Documents/Personal-Proyects/gaming-page/html/index.html">
@@ -29,6 +30,7 @@ export const Header = () => {
           <li>register</li>
         </ul>
       </nav>
+      </div>
     </>
   )
 }
