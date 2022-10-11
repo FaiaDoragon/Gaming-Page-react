@@ -1,4 +1,4 @@
-import { Header } from './components/header'
+import { Header } from './components/header/header'
 import { BodyGames } from './components/bodyGames'
 
 

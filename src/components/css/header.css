@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+}
+
+#header {
+    background-color: #00CDFF;
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+}
+
+#nav-bar {
+    background-color: #00CDFF;
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    margin: 0;
+    padding: 0;
+}

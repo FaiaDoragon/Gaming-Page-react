@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+}
+
+
+.logo-redes {
+    background-color: #84E7FF;
+    display: flex;
+    flex-direction: row;
+    width: auto;
+    justify-content: space-between;
+    color:#fff;
+    padding: 0px;
+    margin: 0;
+    height: 125px;
+}
+
+.redes {
+    margin: auto 5px auto auto;
+    border-radius: 10px;
+}
+
+.logo {
+    border-radius: 0px 10px 10px 0px;
+    margin: 0px;
+    padding: 0px;
+}
+
+#redes {
+    margin-top: auto;
+    margin-bottom: auto;
+}
+

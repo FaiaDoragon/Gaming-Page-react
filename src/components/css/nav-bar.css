@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+}
+
+ul {
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+ul li {
+    background-color: #00CDFF;
+    display: flex;
+    padding: 15px 30px 15px 30px;
+    cursor: pointer;
+}
+
+ul li:hover {
+    background-color: #66E1FF;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+#gameserch {
+    display: flex;
+    flex-direction: column;
+}
+
+#search {
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+}
+
+#searchvar {
+    width: 400px;
+}
