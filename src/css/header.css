@@ -31,19 +31,19 @@
     padding: 0;
 }
 
-#seach {
+#gameserch {
     display: flex;
-    justify-items: center;
-    align-items: center;
-    color: #fff;
-    margin: auto 0 auto auto;
+    flex-direction: column;
 }
 
-#busqueda {
+#search {
     display: flex;
-    margin: auto auto auto 0;
-    height: 20px;
-    width: 20%;
+    flex-direction: row;
+    margin: auto;
+}
+
+#searchvar {
+    width: 400px;
 }
 
 ul {
